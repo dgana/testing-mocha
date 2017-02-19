@@ -1,0 +1,25 @@
+{
+  "name": "testing-mocha",
+  "version": "1.0.0",
+  "description": "Testing Controller with Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgana/testing-mocha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgana/testing-mocha/issues"
+  },
+  "homepage": "https://github.com/dgana/testing-mocha#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-arrays": "0.0.1"
+  },
+  "dependencies": {}
+}

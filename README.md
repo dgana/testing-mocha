@@ -1,2 +1,7 @@
 # testing-mocha
-Testing Controller with Mocha
+
+Simple linear & global searcg testing with Mocha
+
+```
+npm i
+```
